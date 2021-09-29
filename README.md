@@ -1,6 +1,7 @@
 # Java-Swing
 Project about Java-Swing of mySelf
 
+These project is my first-days of stydy Java
 
 Some image about each project 
 
