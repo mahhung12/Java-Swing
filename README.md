@@ -1,7 +1,7 @@
 # Java-Swing
 Project about Java-Swing of mySelf
 
-These project is my first-days of stydy Java
+These project is my first-days of study Java, OOP
 
 Some image about each project 
 
