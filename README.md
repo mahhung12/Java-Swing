@@ -3,7 +3,7 @@ Project about Java-Swing of mySelf
 
 These project is my first-days of study Java, OOP
 
-Some image about each project 
+Some image about each project, Design by Swing and template from Docs FPT University
 
 ---
 1. Basic HappyFrog game
